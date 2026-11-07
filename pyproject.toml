@@ -1,0 +1,7 @@
+[project]
+name = "hijri-py-julian-hijri-tabular"
+version = "1.0.0"
+description = "30-Year Cycle Tabular Islamic Calendar (Hisabi) & JD Arithmetic (المحول الحسابي الفلكي بين اليوم اليولياني والتقويم الهجري)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
